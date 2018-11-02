@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>CodePipeline Demo - Simple PHP App - ECS CodePipeline -Demo </h1>
+                <h1>Version2 - CodePipeline Demo - Simple PHP App - ECS CodePipeline -Demo </h1>
                 <h2>DevOps</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
