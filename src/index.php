@@ -9,8 +9,7 @@
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
-
-    <body>
+    <body style="background-color:blue">
         <div class="container">
             <div class="hero-unit">
                 <h1>Version4 - CodePipeline Demo - Simple PHP App - ECS CodePipeline -Demo </h1>
@@ -29,5 +28,4 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
     </body>
-
 </html>
