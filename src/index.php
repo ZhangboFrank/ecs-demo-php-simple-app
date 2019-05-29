@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 
     <head>
         <meta charset="utf-8">
@@ -7,7 +5,7 @@
         <title>Simple PHP App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-        <color: #666699;}</style>
+        <color: #666699;}>
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
