@@ -9,7 +9,7 @@
         <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
         <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     </head>
-    <body style="background-color:green">
+    <body style="background-color:black">
         <div class="container">
             <div class="hero-unit">
                 <h1>CodePipeline Demo - Simple PHP App - ECS CodePipeline -Demo </h1>
